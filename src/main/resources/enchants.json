@@ -147,8 +147,8 @@
     "experience": {
       "loreName": "Experience",
       "nbtName": "experience",
-      "goodLevel": 3,
-      "maxLevel": 4
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "feather falling": {
       "loreName": "Feather Falling",
@@ -201,7 +201,7 @@
     "ferocious mana": {
       "loreName": "Ferocious Mana",
       "nbtName": "ferocious_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "giant killer": {
@@ -209,6 +209,12 @@
       "nbtName": "giant_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green_thumb",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "growth": {
       "loreName": "Growth",
@@ -225,8 +231,14 @@
     "hardened mana": {
       "loreName": "Hardened Mana",
       "nbtName": "hardened_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
+    },
+    "ice cold": {
+      "loreName": "Ice Cold",
+      "nbtName": "ice_cold",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "impaling": {
       "loreName": "Impaling",
@@ -297,7 +309,7 @@
     "mana vampire": {
       "loreName": "Mana Vampire",
       "nbtName": "mana_vampire",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "overload": {
@@ -305,6 +317,12 @@
       "nbtName": "overload",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "piercing": {
       "loreName": "Piercing",
@@ -336,6 +354,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -348,11 +372,23 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
       "maxLevel": 2
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 1,
+      "maxLevel": 5
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -381,8 +417,8 @@
     "scavenger": {
       "loreName": "Scavenger",
       "nbtName": "scavenger",
-      "goodLevel": 3,
-      "maxLevel": 5
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "sharpness": {
       "loreName": "Sharpness",
@@ -447,7 +483,7 @@
     "strong mana": {
       "loreName": "Strong Mana",
       "nbtName": "strong_mana",
-      "goodLevel": 9,
+      "goodLevel": 5,
       "maxLevel": 10
     },
     "tabasco": {
@@ -474,11 +510,23 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "tidal": {
+      "loreName": "Tidal",
+      "nbtName": "tidal",
+      "goodLevel": 1,
+      "maxLevel": 3
+    },
     "titan killer": {
       "loreName": "Titan Killer",
       "nbtName": "titan_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "triple-strike": {
       "loreName": "Triple-Strike",
@@ -650,6 +698,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rend": {
       "loreName": "Rend",
       "nbtName": "ultimate_rend",
@@ -666,6 +720,12 @@
       "loreName": "Swarm",
       "nbtName": "ultimate_swarm",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "ultimate_the_one",
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "ultimate wise": {
@@ -717,6 +777,15 @@
       "maxLevel": 10,
       "statLabel": "hecatombsSRuns",
       "stackLevel": [0, 2, 5, 10, 20, 30, 40, 60, 80, 100]
+    },
+    "toxophilite": {
+      "loreName": "Toxophilite",
+      "nbtName": "toxophilite",
+      "nbtNum": "toxophilite_combat_xp",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "toxophiliteCombatXp",
+      "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
     },
     "champion": {
       "loreName": "Champion",
